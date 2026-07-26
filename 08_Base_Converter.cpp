@@ -1,5 +1,4 @@
-08_base_converter.cpp
-Original file line number	Diff line number	Diff line change
+
 /* Goal: To implement a bidirectional number system converter that translates a base-10 integer into its base-2 positional representation, and 
    then mathematically decodes it back to verify the integrity of both algorithms.
  
